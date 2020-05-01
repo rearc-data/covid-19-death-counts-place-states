@@ -4,7 +4,7 @@
 
 # Provisional COVID-19 Death Counts by Place of Death and State | CDC/NCHS
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [](). 
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-oshy5mjlhgky2](https://aws.amazon.com/marketplace/pp/prodview-oshy5mjlhgky2). 
 
 ## Main Overview:
 This release contains the provisional count of deaths involving coronavirus disease 2019 (COVID-19) by place of death and State released by the Center for Disease Control and Prevention (CDC) and National Center for Health Statistics (NCHS).
